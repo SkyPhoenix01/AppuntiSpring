@@ -5,7 +5,7 @@
 ### Professori
 
 | ID | Name | Cognome | login |
-| - | - | - | - | - |
+| - | - | - | - |
 | 41 | Francesco | Rossi | francescoRossi |
 
 
@@ -31,10 +31,13 @@
 
 ## Chiamate REST
 
-### Login
+### Login 
+:heavy_check_mark:
 ---
 
 ### Lista Classi *Per la seleziona classi*
+
+:heavy_check_mark:
 ---
 
 facciamo una chiamata GET con **idProfessore** e stampiamo tutte le classi che hanno il professore come docente
