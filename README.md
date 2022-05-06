@@ -53,7 +53,7 @@ facciamo una chiamata GET con **idProfessore** e stampiamo tutte le classi che h
 ```
 
 
-### Lista Repos
+### Lista Repos :heavy_check_mark:
 ---
 facciamo una chiamata POST con **loginProfessore**, **token** e facciamo una chiamata a GitHub per avere tutti i repos poi confrontiamo il campo login dei vari repos con i login degli **Studenti** la lista dovrà essere 
 
